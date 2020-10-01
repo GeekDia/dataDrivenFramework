@@ -1,0 +1,12 @@
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/utilities/ExcelUtilities.java
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/utilities/TestConfig.java
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/pages/AddCustomerPage.java
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/utilities/MonitoringMail.java
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/pages/ManagerPage.java
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/pages/LoginPage.java
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/listeners/ExtentListeners.java
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/listeners/CustomListener.java
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/reports/ExtentReportManager.java
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/utilities/Utilities.java
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/pages/HomePage.java
+/Users/bambadia/eclipse-workspace/selenium-framework/datadrivenframework/src/main/java/it/testware/base/BasePage.java

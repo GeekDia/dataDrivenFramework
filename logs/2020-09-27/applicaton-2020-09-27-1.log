@@ -1,0 +1,645 @@
+[DEBUG] 2020-09-26 11:04:14.983 it.testware.base.BasePage:43 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 11:04:19.406 it.testware.base.BasePage:61 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 11:04:19.408 it.testware.base.BasePage:77 - Inputstream file closed
+
+[DEBUG] 2020-09-26 11:04:19.579 it.testware.base.BasePage:83 - Windows maximized
+
+[DEBUG] 2020-09-26 11:04:19.596 it.testware.base.BasePage:85 - All Cookies deleted
+
+[DEBUG] 2020-09-26 11:04:21.375 it.testware.base.BasePage:89 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 11:04:21.379 it.testware.base.BasePage:32 - 
+***************** loginAsBankManager start executing ****************
+
+[INFO ] 2020-09-26 11:04:22.339 it.testware.base.BasePage:109 -  Bank manager button cliked
+[DEBUG] 2020-09-26 11:04:22.358 it.testware.base.BasePage:42 - Bamba
+[DEBUG] 2020-09-26 11:04:25.526 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 11:04:26.922 it.testware.base.BasePage:43 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 11:04:28.527 it.testware.base.BasePage:61 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 11:04:28.528 it.testware.base.BasePage:77 - Inputstream file closed
+
+[DEBUG] 2020-09-26 11:04:28.760 it.testware.base.BasePage:83 - Windows maximized
+
+[DEBUG] 2020-09-26 11:04:28.773 it.testware.base.BasePage:85 - All Cookies deleted
+
+[DEBUG] 2020-09-26 11:04:30.578 it.testware.base.BasePage:89 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 11:04:30.579 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 11:04:30.580 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 11:04:30.948 it.testware.base.BasePage:109 -  Bank manager button cliked
+[INFO ] 2020-09-26 11:04:31.421 it.testware.base.BasePage:109 - add customer button cliked
+[INFO ] 2020-09-26 11:04:32.117 it.testware.base.BasePage:116 - Entered the firstname : Bamba
+[INFO ] 2020-09-26 11:04:32.206 it.testware.base.BasePage:116 - Entered the lastname : Dia 
+[INFO ] 2020-09-26 11:04:32.328 it.testware.base.BasePage:116 - Entered the postCode : 67898.0
+[INFO ] 2020-09-26 11:04:32.444 it.testware.base.BasePage:109 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (304d550afdd9ab1eeac93a54d11217a1)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 11:04:32.640 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 11:04:32.643 it.testware.base.BasePage:43 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 11:04:34.030 it.testware.base.BasePage:61 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 11:04:34.030 it.testware.base.BasePage:77 - Inputstream file closed
+
+[DEBUG] 2020-09-26 11:04:34.178 it.testware.base.BasePage:83 - Windows maximized
+
+[DEBUG] 2020-09-26 11:04:34.200 it.testware.base.BasePage:85 - All Cookies deleted
+
+[DEBUG] 2020-09-26 11:04:35.955 it.testware.base.BasePage:89 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 11:04:35.957 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 11:04:35.958 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 11:04:36.308 it.testware.base.BasePage:109 -  Bank manager button cliked
+[INFO ] 2020-09-26 11:04:36.790 it.testware.base.BasePage:109 - add customer button cliked
+[INFO ] 2020-09-26 11:04:37.227 it.testware.base.BasePage:116 - Entered the firstname : Lamine
+[INFO ] 2020-09-26 11:04:37.326 it.testware.base.BasePage:116 - Entered the lastname : dupont 
+[INFO ] 2020-09-26 11:04:37.451 it.testware.base.BasePage:116 - Entered the postCode : 78667.0
+[INFO ] 2020-09-26 11:04:37.553 it.testware.base.BasePage:109 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (c76fe29200204b0ee60e96b2b6e2b73f)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 11:04:37.747 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 11:04:38.534 it.testware.base.BasePage:43 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 11:04:39.849 it.testware.base.BasePage:61 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 11:04:39.850 it.testware.base.BasePage:77 - Inputstream file closed
+
+[DEBUG] 2020-09-26 11:04:40.035 it.testware.base.BasePage:83 - Windows maximized
+
+[DEBUG] 2020-09-26 11:04:40.047 it.testware.base.BasePage:85 - All Cookies deleted
+
+[DEBUG] 2020-09-26 11:04:41.852 it.testware.base.BasePage:89 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 11:04:41.853 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 11:04:41.854 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 11:04:42.196 it.testware.base.BasePage:109 -  Bank manager button cliked
+[INFO ] 2020-09-26 11:04:42.668 it.testware.base.BasePage:109 - add customer button cliked
+[INFO ] 2020-09-26 11:04:43.108 it.testware.base.BasePage:116 - Entered the firstname : Bamba
+[INFO ] 2020-09-26 11:04:43.198 it.testware.base.BasePage:116 - Entered the lastname : Dia 
+[INFO ] 2020-09-26 11:04:43.320 it.testware.base.BasePage:116 - Entered the postCode : 67898.0
+[INFO ] 2020-09-26 11:04:43.441 it.testware.base.BasePage:109 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (43081d85af44d426f90f17737ccd301b)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 11:04:43.588 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 11:04:43.590 it.testware.base.BasePage:43 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 11:04:45.082 it.testware.base.BasePage:61 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 11:04:45.083 it.testware.base.BasePage:77 - Inputstream file closed
+
+[DEBUG] 2020-09-26 11:04:45.233 it.testware.base.BasePage:83 - Windows maximized
+
+[DEBUG] 2020-09-26 11:04:45.245 it.testware.base.BasePage:85 - All Cookies deleted
+
+[DEBUG] 2020-09-26 11:04:47.090 it.testware.base.BasePage:89 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 11:04:47.091 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 11:04:47.092 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 11:04:47.449 it.testware.base.BasePage:109 -  Bank manager button cliked
+[INFO ] 2020-09-26 11:04:47.923 it.testware.base.BasePage:109 - add customer button cliked
+[INFO ] 2020-09-26 11:04:48.327 it.testware.base.BasePage:116 - Entered the firstname : Lamine
+[INFO ] 2020-09-26 11:04:48.486 it.testware.base.BasePage:116 - Entered the lastname : dupont 
+[INFO ] 2020-09-26 11:04:48.591 it.testware.base.BasePage:116 - Entered the postCode : 78667.0
+[INFO ] 2020-09-26 11:04:48.720 it.testware.base.BasePage:109 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (52d446792b75f5e7c930015ab4ecd6a9)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 11:04:48.890 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 11:58:11.527 it.testware.base.BasePage:43 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 11:58:15.623 it.testware.base.BasePage:61 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 11:58:15.624 it.testware.base.BasePage:77 - Inputstream file closed
+
+[DEBUG] 2020-09-26 11:58:15.784 it.testware.base.BasePage:83 - Windows maximized
+
+[DEBUG] 2020-09-26 11:58:15.799 it.testware.base.BasePage:85 - All Cookies deleted
+
+[DEBUG] 2020-09-26 11:58:17.387 it.testware.base.BasePage:89 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 11:58:17.394 it.testware.base.BasePage:32 - 
+***************** loginAsBankManager start executing ****************
+
+[INFO ] 2020-09-26 11:58:18.171 it.testware.base.BasePage:109 -  Bank manager button cliked
+[DEBUG] 2020-09-26 11:58:18.180 it.testware.base.BasePage:42 - Bamba
+[DEBUG] 2020-09-26 11:58:21.380 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 11:58:22.276 it.testware.base.BasePage:43 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 11:58:23.895 it.testware.base.BasePage:61 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 11:58:23.896 it.testware.base.BasePage:77 - Inputstream file closed
+
+[DEBUG] 2020-09-26 11:58:24.107 it.testware.base.BasePage:83 - Windows maximized
+
+[DEBUG] 2020-09-26 11:58:24.124 it.testware.base.BasePage:85 - All Cookies deleted
+
+[DEBUG] 2020-09-26 11:58:25.962 it.testware.base.BasePage:89 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 11:58:25.964 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 11:58:25.965 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 11:58:26.344 it.testware.base.BasePage:109 -  Bank manager button cliked
+[INFO ] 2020-09-26 11:58:26.873 it.testware.base.BasePage:109 - add customer button cliked
+[INFO ] 2020-09-26 11:58:27.341 it.testware.base.BasePage:116 - Entered the firstname : Bamba
+[INFO ] 2020-09-26 11:58:27.444 it.testware.base.BasePage:116 - Entered the lastname : Dia 
+[INFO ] 2020-09-26 11:58:27.540 it.testware.base.BasePage:116 - Entered the postCode : 67898.0
+[INFO ] 2020-09-26 11:58:27.661 it.testware.base.BasePage:109 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (a729cdf8c61dce8130223acf21e23508)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 11:58:27.852 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 11:58:27.854 it.testware.base.BasePage:43 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 11:58:29.302 it.testware.base.BasePage:61 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 11:58:29.303 it.testware.base.BasePage:77 - Inputstream file closed
+
+[DEBUG] 2020-09-26 11:58:29.453 it.testware.base.BasePage:83 - Windows maximized
+
+[DEBUG] 2020-09-26 11:58:29.465 it.testware.base.BasePage:85 - All Cookies deleted
+
+[DEBUG] 2020-09-26 11:58:31.348 it.testware.base.BasePage:89 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 11:58:31.349 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 11:58:31.351 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 11:58:31.700 it.testware.base.BasePage:109 -  Bank manager button cliked
+[INFO ] 2020-09-26 11:58:32.106 it.testware.base.BasePage:109 - add customer button cliked
+[INFO ] 2020-09-26 11:58:32.548 it.testware.base.BasePage:116 - Entered the firstname : Lamine
+[INFO ] 2020-09-26 11:58:32.637 it.testware.base.BasePage:116 - Entered the lastname : dupont 
+[INFO ] 2020-09-26 11:58:32.743 it.testware.base.BasePage:116 - Entered the postCode : 78667.0
+[INFO ] 2020-09-26 11:58:32.898 it.testware.base.BasePage:109 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (08acf4debb07fa3254848707d61f8eaf)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 11:58:33.047 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 11:58:33.551 it.testware.base.BasePage:43 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 11:58:35.100 it.testware.base.BasePage:61 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 11:58:35.100 it.testware.base.BasePage:77 - Inputstream file closed
+
+[DEBUG] 2020-09-26 11:58:35.303 it.testware.base.BasePage:83 - Windows maximized
+
+[DEBUG] 2020-09-26 11:58:35.315 it.testware.base.BasePage:85 - All Cookies deleted
+
+[DEBUG] 2020-09-26 11:58:37.153 it.testware.base.BasePage:89 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 11:58:37.154 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 11:58:37.154 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 11:58:37.984 it.testware.base.BasePage:109 -  Bank manager button cliked
+[INFO ] 2020-09-26 11:58:38.332 it.testware.base.BasePage:109 - add customer button cliked
+[INFO ] 2020-09-26 11:58:39.019 it.testware.base.BasePage:116 - Entered the firstname : Bamba
+[INFO ] 2020-09-26 11:58:39.107 it.testware.base.BasePage:116 - Entered the lastname : Dia 
+[INFO ] 2020-09-26 11:58:39.212 it.testware.base.BasePage:116 - Entered the postCode : 67898.0
+[INFO ] 2020-09-26 11:58:39.313 it.testware.base.BasePage:109 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (49d9505ae8d5a240cba880966b32e542)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 11:58:39.476 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 11:58:39.481 it.testware.base.BasePage:43 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 11:58:40.880 it.testware.base.BasePage:61 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 11:58:40.881 it.testware.base.BasePage:77 - Inputstream file closed
+
+[DEBUG] 2020-09-26 11:58:41.030 it.testware.base.BasePage:83 - Windows maximized
+
+[DEBUG] 2020-09-26 11:58:41.040 it.testware.base.BasePage:85 - All Cookies deleted
+
+[DEBUG] 2020-09-26 11:58:42.854 it.testware.base.BasePage:89 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 11:58:42.854 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 11:58:42.855 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 11:58:43.207 it.testware.base.BasePage:109 -  Bank manager button cliked
+[INFO ] 2020-09-26 11:58:43.688 it.testware.base.BasePage:109 - add customer button cliked
+[INFO ] 2020-09-26 11:58:44.134 it.testware.base.BasePage:116 - Entered the firstname : Lamine
+[INFO ] 2020-09-26 11:58:44.232 it.testware.base.BasePage:116 - Entered the lastname : dupont 
+[INFO ] 2020-09-26 11:58:44.341 it.testware.base.BasePage:116 - Entered the postCode : 78667.0
+[INFO ] 2020-09-26 11:58:44.450 it.testware.base.BasePage:109 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (8dd2d4bef448fcc7c148ccb53a472c8c)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 11:58:44.611 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 13:52:50.309 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 13:52:50.332 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 13:52:54.079 it.testware.base.BasePage:81 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 13:52:54.079 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 13:52:54.080 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 13:52:54.244 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 13:52:54.262 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 13:52:56.687 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 13:52:56.690 it.testware.base.BasePage:32 - 
+***************** loginAsBankManager start executing ****************
+
+[INFO ] 2020-09-26 13:52:57.582 it.testware.base.BasePage:133 -  Bank manager button cliked
+[DEBUG] 2020-09-26 13:52:57.591 it.testware.base.BasePage:42 - Bamba
+[DEBUG] 2020-09-26 13:53:00.726 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 13:53:01.916 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 13:53:01.920 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 13:53:03.468 it.testware.base.BasePage:81 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 13:53:03.469 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 13:53:03.470 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 13:53:03.637 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 13:53:03.646 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 13:53:05.858 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 13:53:05.860 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 13:53:05.861 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 13:53:06.752 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 13:53:07.354 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 13:53:08.070 it.testware.base.BasePage:140 - Entered the firstname : Bamba
+[INFO ] 2020-09-26 13:53:08.173 it.testware.base.BasePage:140 - Entered the lastname : Dia 
+[INFO ] 2020-09-26 13:53:08.287 it.testware.base.BasePage:140 - Entered the postCode : 67898.0
+[INFO ] 2020-09-26 13:53:08.371 it.testware.base.BasePage:133 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (95f3d2bccb34b9dba40920a28ab18e00)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 13:53:08.564 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 13:53:08.567 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 13:53:08.570 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 13:53:09.953 it.testware.base.BasePage:81 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 13:53:09.953 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 13:53:09.953 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 13:53:10.103 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 13:53:10.114 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 13:53:11.994 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 13:53:11.996 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 13:53:11.997 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 13:53:12.812 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 13:53:12.954 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 13:53:13.398 it.testware.base.BasePage:140 - Entered the firstname : Lamine
+[INFO ] 2020-09-26 13:53:13.486 it.testware.base.BasePage:140 - Entered the lastname : dupont 
+[INFO ] 2020-09-26 13:53:13.646 it.testware.base.BasePage:140 - Entered the postCode : 78667.0
+[INFO ] 2020-09-26 13:53:13.758 it.testware.base.BasePage:133 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (41541cbd86e6382f9fff2c092d2d750a)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 13:53:13.948 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 13:53:14.730 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 13:53:14.734 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 13:53:16.194 it.testware.base.BasePage:81 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 13:53:16.195 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 13:53:16.195 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 13:53:16.379 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 13:53:16.389 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 13:53:18.319 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 13:53:18.320 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 13:53:18.321 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 13:53:19.191 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 13:53:19.797 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 13:53:20.486 it.testware.base.BasePage:140 - Entered the firstname : Bamba
+[INFO ] 2020-09-26 13:53:20.575 it.testware.base.BasePage:140 - Entered the lastname : Dia 
+[INFO ] 2020-09-26 13:53:20.750 it.testware.base.BasePage:140 - Entered the postCode : 67898.0
+[INFO ] 2020-09-26 13:53:20.877 it.testware.base.BasePage:133 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (cd833e688dc5b85fba0433db995fd401)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 13:53:21.066 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 13:53:21.069 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 13:53:21.072 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 13:53:22.471 it.testware.base.BasePage:81 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 13:53:22.471 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 13:53:22.472 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 13:53:22.639 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 13:53:22.649 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 13:53:25.145 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 13:53:25.146 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 13:53:25.147 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 13:53:25.484 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 13:53:25.994 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 13:53:26.724 it.testware.base.BasePage:140 - Entered the firstname : Lamine
+[INFO ] 2020-09-26 13:53:26.853 it.testware.base.BasePage:140 - Entered the lastname : dupont 
+[INFO ] 2020-09-26 13:53:26.959 it.testware.base.BasePage:140 - Entered the postCode : 78667.0
+[INFO ] 2020-09-26 13:53:27.069 it.testware.base.BasePage:133 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (a4ea28cd2a36668f351a929e712196c7)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 13:53:27.218 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 13:58:36.019 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 13:58:36.033 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 13:58:38.566 it.testware.base.BasePage:81 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 13:58:38.567 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 13:58:38.571 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 13:58:38.731 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 13:58:38.742 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 13:58:41.524 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 13:58:41.529 it.testware.base.BasePage:32 - 
+***************** loginAsBankManager start executing ****************
+
+[INFO ] 2020-09-26 13:58:42.097 it.testware.base.BasePage:133 -  Bank manager button cliked
+[DEBUG] 2020-09-26 13:58:42.106 it.testware.base.BasePage:42 - Bamba
+[DEBUG] 2020-09-26 13:58:45.257 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 13:58:46.048 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 13:58:46.051 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 13:58:47.627 it.testware.base.BasePage:81 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 13:58:47.628 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 13:58:47.628 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 13:58:47.772 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 13:58:47.782 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 13:58:49.830 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 13:58:49.831 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 13:58:49.833 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 13:58:50.637 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 13:58:51.269 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 13:58:51.747 it.testware.base.BasePage:140 - Entered the firstname : Bamba
+[INFO ] 2020-09-26 13:58:51.840 it.testware.base.BasePage:140 - Entered the lastname : Dia 
+[INFO ] 2020-09-26 13:58:51.951 it.testware.base.BasePage:140 - Entered the postCode : 67898.0
+[INFO ] 2020-09-26 13:58:52.058 it.testware.base.BasePage:133 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (2a4e23021e024629d10211d7da51bbb4)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 13:58:52.224 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 13:58:52.232 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 13:58:52.239 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 13:58:53.712 it.testware.base.BasePage:81 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 13:58:53.713 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 13:58:53.714 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 13:58:53.890 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 13:58:53.903 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 13:58:55.733 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 13:58:55.736 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 13:58:55.737 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 13:58:56.173 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 13:58:56.656 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 13:58:57.350 it.testware.base.BasePage:140 - Entered the firstname : Lamine
+[INFO ] 2020-09-26 13:58:57.453 it.testware.base.BasePage:140 - Entered the lastname : dupont 
+[INFO ] 2020-09-26 13:58:57.570 it.testware.base.BasePage:140 - Entered the postCode : 78667.0
+[INFO ] 2020-09-26 13:58:57.687 it.testware.base.BasePage:133 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (af3f13aa9ef67cb6454c44fae40c13de)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 13:58:57.813 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 13:58:58.469 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 13:58:58.472 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 13:58:59.841 it.testware.base.BasePage:81 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 13:58:59.841 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 13:58:59.842 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 13:58:59.985 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 13:59:00.003 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 13:59:01.991 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 13:59:01.992 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 13:59:01.993 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 13:59:02.872 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 13:59:03.479 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 13:59:04.187 it.testware.base.BasePage:140 - Entered the firstname : Bamba
+[INFO ] 2020-09-26 13:59:04.275 it.testware.base.BasePage:140 - Entered the lastname : Dia 
+[INFO ] 2020-09-26 13:59:04.395 it.testware.base.BasePage:140 - Entered the postCode : 67898.0
+[INFO ] 2020-09-26 13:59:04.488 it.testware.base.BasePage:133 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (41dc8e10e1ece3ff7f251344fcd2eb64)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 13:59:04.668 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 13:59:04.669 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 13:59:04.671 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 13:59:05.974 it.testware.base.BasePage:81 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 13:59:05.974 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 13:59:05.974 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 13:59:06.118 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 13:59:06.129 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 13:59:08.321 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 13:59:08.322 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 13:59:08.323 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 13:59:09.184 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 13:59:09.786 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 13:59:10.483 it.testware.base.BasePage:140 - Entered the firstname : Lamine
+[INFO ] 2020-09-26 13:59:10.575 it.testware.base.BasePage:140 - Entered the lastname : dupont 
+[INFO ] 2020-09-26 13:59:10.681 it.testware.base.BasePage:140 - Entered the postCode : 78667.0
+[INFO ] 2020-09-26 13:59:10.805 it.testware.base.BasePage:133 - Cliking on submit button element : [[ChromeDriver: chrome on MAC (01201b4f560ab0f36ebb443789ee2aff)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 13:59:11.021 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 14:05:20.957 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 14:05:20.981 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 14:05:29.585 it.testware.base.BasePage:86 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 14:05:29.585 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 14:05:29.586 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 14:05:30.105 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 14:05:30.123 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 14:05:32.636 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 14:05:32.642 it.testware.base.BasePage:32 - 
+***************** loginAsBankManager start executing ****************
+
+[INFO ] 2020-09-26 14:05:33.480 it.testware.base.BasePage:133 -  Bank manager button cliked
+[DEBUG] 2020-09-26 14:05:33.490 it.testware.base.BasePage:42 - Bamba
+[DEBUG] 2020-09-26 14:05:37.270 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 14:05:38.076 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 14:05:38.087 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 14:05:41.512 it.testware.base.BasePage:86 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 14:05:41.512 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 14:05:41.512 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 14:05:42.009 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 14:05:42.014 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 14:05:45.970 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 14:05:45.972 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 14:05:45.973 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 14:05:46.258 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 14:05:46.791 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 14:05:47.137 it.testware.base.BasePage:140 - Entered the firstname : Bamba
+[INFO ] 2020-09-26 14:05:47.179 it.testware.base.BasePage:140 - Entered the lastname : Dia 
+[INFO ] 2020-09-26 14:05:47.226 it.testware.base.BasePage:140 - Entered the postCode : 67898.0
+[INFO ] 2020-09-26 14:05:47.335 it.testware.base.BasePage:133 - Cliking on submit button element : [[FirefoxDriver: firefox on MAC (e2e38e75-3cf0-3b48-b3ce-7dc84a8671d2)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 14:05:48.100 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 14:05:48.103 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 14:05:48.108 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 14:05:51.624 it.testware.base.BasePage:86 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 14:05:51.628 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 14:05:51.629 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 14:05:52.127 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 14:05:52.132 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 14:05:55.217 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 14:05:55.220 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 14:05:55.223 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 14:05:56.826 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 14:05:57.591 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 14:05:57.922 it.testware.base.BasePage:140 - Entered the firstname : Lamine
+[INFO ] 2020-09-26 14:05:57.982 it.testware.base.BasePage:140 - Entered the lastname : dupont 
+[INFO ] 2020-09-26 14:05:58.036 it.testware.base.BasePage:140 - Entered the postCode : 78667.0
+[INFO ] 2020-09-26 14:05:58.188 it.testware.base.BasePage:133 - Cliking on submit button element : [[FirefoxDriver: firefox on MAC (2bc660e6-d769-8f4a-b071-9bed68623a62)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 14:05:59.125 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 14:05:59.815 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 14:05:59.820 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 14:06:03.425 it.testware.base.BasePage:86 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 14:06:03.426 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 14:06:03.426 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 14:06:03.911 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 14:06:03.918 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 14:06:07.326 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 14:06:07.329 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 14:06:07.331 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 14:06:08.236 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 14:06:08.479 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 14:06:08.798 it.testware.base.BasePage:140 - Entered the firstname : Bamba
+[INFO ] 2020-09-26 14:06:08.847 it.testware.base.BasePage:140 - Entered the lastname : Dia 
+[INFO ] 2020-09-26 14:06:08.900 it.testware.base.BasePage:140 - Entered the postCode : 67898.0
+[INFO ] 2020-09-26 14:06:09.041 it.testware.base.BasePage:133 - Cliking on submit button element : [[FirefoxDriver: firefox on MAC (33f6e163-79f4-4842-b30d-3bf4addff8a1)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 14:06:10.051 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-26 14:06:10.053 it.testware.base.BasePage:53 - Properties file load from : configs/config.properties
+[DEBUG] 2020-09-26 14:06:10.058 it.testware.base.BasePage:61 - xml file loaded successfuly from : strings/strings.xml
+[DEBUG] 2020-09-26 14:06:13.790 it.testware.base.BasePage:86 - ********** Chrome driver load ************* 
+
+[DEBUG] 2020-09-26 14:06:13.790 it.testware.base.BasePage:97 - Inputstream file closed
+
+[DEBUG] 2020-09-26 14:06:13.791 it.testware.base.BasePage:101 - XML stream file closed
+
+[DEBUG] 2020-09-26 14:06:14.294 it.testware.base.BasePage:107 - Windows maximized
+
+[DEBUG] 2020-09-26 14:06:14.300 it.testware.base.BasePage:109 - All Cookies deleted
+
+[DEBUG] 2020-09-26 14:06:17.947 it.testware.base.BasePage:113 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-26 14:06:17.948 it.testware.base.BasePage:33 - 
+***************** addCustomer start executing ****************
+
+[DEBUG] 2020-09-26 14:06:17.949 it.testware.base.BasePage:42 - Bamba
+[INFO ] 2020-09-26 14:06:18.510 it.testware.base.BasePage:133 -  Bank manager button cliked
+[INFO ] 2020-09-26 14:06:19.296 it.testware.base.BasePage:133 - add customer button cliked
+[INFO ] 2020-09-26 14:06:19.613 it.testware.base.BasePage:140 - Entered the firstname : Lamine
+[INFO ] 2020-09-26 14:06:19.670 it.testware.base.BasePage:140 - Entered the lastname : dupont 
+[INFO ] 2020-09-26 14:06:19.716 it.testware.base.BasePage:140 - Entered the postCode : 78667.0
+[INFO ] 2020-09-26 14:06:19.772 it.testware.base.BasePage:133 - Cliking on submit button element : [[FirefoxDriver: firefox on MAC (de1552d8-fc64-4a40-9699-1641ab8b400d)] -> xpath: //button[@class='btn btn-default']]
+[DEBUG] 2020-09-26 14:06:21.002 it.testware.base.BasePage:30 - 
+ Quit the driver after Test
+

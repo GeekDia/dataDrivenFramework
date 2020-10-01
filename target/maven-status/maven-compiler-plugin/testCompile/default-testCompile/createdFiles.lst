@@ -1,0 +1,5 @@
+it/testware/rough/SendingEmail.class
+it/testware/testcases/BaseTest.class
+it/testware/testcases/LoginTest.class
+it/testware/testcases/AddCustomerTest.class
+it/testware/rough/JSONParser.class

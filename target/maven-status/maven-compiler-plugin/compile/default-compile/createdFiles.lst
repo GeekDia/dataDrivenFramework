@@ -1,0 +1,14 @@
+it/testware/base/BasePage.class
+it/testware/pages/ManagerPage.class
+it/testware/listeners/ExtentListeners.class
+it/testware/pages/LoginPage.class
+it/testware/utilities/MonitoringMail.class
+it/testware/listeners/CustomListener.class
+it/testware/utilities/TestConfig.class
+it/testware/utilities/MonitoringMail$1.class
+it/testware/pages/AddCustomerPage.class
+it/testware/reports/ExtentReportManager.class
+it/testware/utilities/Utilities.class
+it/testware/utilities/MonitoringMail$SMTPAuthenticator.class
+it/testware/pages/HomePage.class
+it/testware/utilities/ExcelUtilities.class

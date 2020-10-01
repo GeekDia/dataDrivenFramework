@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="End to end suite"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3,124">
+  <properties />
+  
+  
+            <testcase name="addCustomer" time="1,502" classname="it.testware.testcases.AddCustomerTest" />
+                <testcase name="addCustomer" time="1,622" classname="it.testware.testcases.AddCustomerTest" />
+      
+</testsuite>

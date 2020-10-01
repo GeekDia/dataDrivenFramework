@@ -1,0 +1,299 @@
+[INFO ] 2020-09-20 15:22:16.209 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 15:22:16.224 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 15:22:16.225 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 15:22:16.226 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 15:22:57.112 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 15:22:57.236 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[INFO ] 2020-09-20 15:28:11.890 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 15:28:11.897 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 15:28:11.897 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 15:28:11.898 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 15:28:40.107 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 15:28:40.153 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[INFO ] 2020-09-20 15:32:09.729 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 15:32:09.733 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 15:32:09.734 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 15:32:09.734 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 15:32:21.173 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 15:32:21.227 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[INFO ] 2020-09-20 15:37:03.986 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 15:37:03.993 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 15:37:03.994 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 15:37:03.995 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 15:37:06.554 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[INFO ] 2020-09-20 15:37:49.755 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 15:37:49.763 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 15:37:49.764 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 15:37:49.765 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 15:37:56.266 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 15:37:56.271 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[INFO ] 2020-09-20 15:40:28.734 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 15:40:28.744 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 15:40:28.746 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 15:40:28.749 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 15:40:36.506 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 15:40:36.509 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[INFO ] 2020-09-20 15:46:40.784 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 15:46:40.788 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 15:46:40.789 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 15:46:40.789 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 15:46:47.124 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 15:46:47.149 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 15:46:50.867 it.testware.base.BasePage:29 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-20 15:46:53.106 it.testware.base.BasePage:29 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 15:56:46.167 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 15:56:46.171 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 15:56:46.172 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 15:56:46.172 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 15:56:52.480 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 15:56:52.509 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 15:56:56.157 it.testware.base.BasePage:29 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-20 15:56:57.711 it.testware.base.BasePage:29 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 15:59:38.947 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 15:59:38.951 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 15:59:38.952 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 15:59:38.952 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 15:59:45.230 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 15:59:45.259 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 15:59:48.860 it.testware.base.BasePage:29 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 15:59:49.628 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 15:59:49.629 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 15:59:49.630 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 15:59:49.630 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 15:59:55.392 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 15:59:57.384 it.testware.base.BasePage:29 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:00:47.643 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 16:00:47.647 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 16:00:47.648 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 16:00:47.648 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 16:00:55.616 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:00:55.649 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 16:00:59.346 it.testware.base.BasePage:29 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:01:00.682 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 16:01:00.683 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 16:01:00.684 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 16:01:00.684 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 16:01:06.470 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:01:08.397 it.testware.base.BasePage:29 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:05:33.647 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 16:05:33.652 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 16:05:33.652 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 16:05:33.653 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 16:05:40.019 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:05:40.049 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 16:05:43.767 it.testware.base.BasePage:29 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-20 16:05:45.947 it.testware.base.BasePage:29 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:11:47.050 it.testware.base.BasePage:39 - info message
+[DEBUG] 2020-09-20 16:11:47.056 it.testware.base.BasePage:40 - debug message
+[WARN ] 2020-09-20 16:11:47.057 it.testware.base.BasePage:41 - warning message
+[ERROR] 2020-09-20 16:11:47.057 it.testware.base.BasePage:42 - error message
+[DEBUG] 2020-09-20 16:11:54.817 it.testware.base.BasePage:77 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:11:54.849 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 16:12:10.345 it.testware.base.BasePage:31 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:16:54.419 it.testware.base.BasePage:40 - info message
+[DEBUG] 2020-09-20 16:16:54.427 it.testware.base.BasePage:41 - debug message
+[WARN ] 2020-09-20 16:16:54.428 it.testware.base.BasePage:42 - warning message
+[ERROR] 2020-09-20 16:16:54.428 it.testware.base.BasePage:43 - error message
+[DEBUG] 2020-09-20 16:17:06.072 it.testware.base.BasePage:78 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:17:06.126 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 16:17:10.590 it.testware.base.BasePage:31 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-20 16:17:15.784 it.testware.base.BasePage:31 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:17:46.272 it.testware.base.BasePage:42 - info message
+[DEBUG] 2020-09-20 16:17:46.275 it.testware.base.BasePage:43 - debug message
+[WARN ] 2020-09-20 16:17:46.276 it.testware.base.BasePage:44 - warning message
+[ERROR] 2020-09-20 16:17:46.276 it.testware.base.BasePage:45 - error message
+[DEBUG] 2020-09-20 16:17:52.333 it.testware.base.BasePage:80 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:17:52.361 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 16:17:56.183 it.testware.base.BasePage:31 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-20 16:17:58.276 it.testware.base.BasePage:31 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:20:57.259 it.testware.base.BasePage:42 - info message
+[DEBUG] 2020-09-20 16:20:57.262 it.testware.base.BasePage:43 - debug message
+[WARN ] 2020-09-20 16:20:57.263 it.testware.base.BasePage:44 - warning message
+[ERROR] 2020-09-20 16:20:57.263 it.testware.base.BasePage:45 - error message
+[DEBUG] 2020-09-20 16:21:03.700 it.testware.base.BasePage:80 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:21:03.724 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 16:21:07.436 it.testware.base.BasePage:31 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-20 16:21:09.465 it.testware.base.BasePage:31 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:30:54.868 it.testware.base.BasePage:42 - info message
+[DEBUG] 2020-09-20 16:30:54.872 it.testware.base.BasePage:43 - debug message
+[WARN ] 2020-09-20 16:30:54.872 it.testware.base.BasePage:44 - warning message
+[ERROR] 2020-09-20 16:30:54.873 it.testware.base.BasePage:45 - error message
+[DEBUG] 2020-09-20 16:31:01.343 it.testware.base.BasePage:80 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:31:01.377 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 16:31:05.761 it.testware.base.BasePage:33 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-20 16:31:07.256 it.testware.base.BasePage:33 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:36:47.690 it.testware.base.BasePage:42 - info message
+[DEBUG] 2020-09-20 16:36:47.696 it.testware.base.BasePage:43 - debug message
+[WARN ] 2020-09-20 16:36:47.697 it.testware.base.BasePage:44 - warning message
+[ERROR] 2020-09-20 16:36:47.698 it.testware.base.BasePage:45 - error message
+[DEBUG] 2020-09-20 16:36:54.655 it.testware.base.BasePage:80 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:36:54.768 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 16:36:58.869 it.testware.base.BasePage:33 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-20 16:36:59.588 it.testware.base.BasePage:33 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:39:58.504 it.testware.base.BasePage:42 - info message
+[DEBUG] 2020-09-20 16:39:58.508 it.testware.base.BasePage:43 - debug message
+[WARN ] 2020-09-20 16:39:58.509 it.testware.base.BasePage:44 - warning message
+[ERROR] 2020-09-20 16:39:58.510 it.testware.base.BasePage:45 - error message
+[DEBUG] 2020-09-20 16:40:04.789 it.testware.base.BasePage:80 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:40:04.818 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 16:40:09.288 it.testware.base.BasePage:33 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:40:09.332 it.testware.base.BasePage:42 - info message
+[DEBUG] 2020-09-20 16:40:09.332 it.testware.base.BasePage:43 - debug message
+[WARN ] 2020-09-20 16:40:09.333 it.testware.base.BasePage:44 - warning message
+[ERROR] 2020-09-20 16:40:09.334 it.testware.base.BasePage:45 - error message
+[DEBUG] 2020-09-20 16:40:14.950 it.testware.base.BasePage:80 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:40:17.381 it.testware.base.BasePage:33 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:44:44.952 it.testware.base.BasePage:42 - info message
+[DEBUG] 2020-09-20 16:44:44.956 it.testware.base.BasePage:43 - debug message
+[WARN ] 2020-09-20 16:44:44.957 it.testware.base.BasePage:44 - warning message
+[ERROR] 2020-09-20 16:44:44.957 it.testware.base.BasePage:45 - error message
+[DEBUG] 2020-09-20 16:44:51.607 it.testware.base.BasePage:80 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:44:51.657 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 16:44:55.883 it.testware.base.BasePage:33 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-20 16:44:56.829 it.testware.base.BasePage:33 - 
+ Quit the driver after Test
+
+[INFO ] 2020-09-20 16:45:52.963 it.testware.base.BasePage:42 - info message
+[DEBUG] 2020-09-20 16:45:52.967 it.testware.base.BasePage:43 - debug message
+[WARN ] 2020-09-20 16:45:52.968 it.testware.base.BasePage:44 - warning message
+[ERROR] 2020-09-20 16:45:52.968 it.testware.base.BasePage:45 - error message
+[DEBUG] 2020-09-20 16:45:59.195 it.testware.base.BasePage:80 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-20 16:45:59.218 it.testware.base.BasePage:19 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-20 16:46:03.496 it.testware.base.BasePage:33 - 
+ Quit the driver after Test
+
+[DEBUG] 2020-09-20 16:46:04.146 it.testware.base.BasePage:33 - 
+ Quit the driver after Test
+

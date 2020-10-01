@@ -1,0 +1,78 @@
+[INFO ] 2020-09-14 19:32:52.668 it.testware.base.TestBase:40 - info message
+[DEBUG] 2020-09-14 19:32:52.687 it.testware.base.TestBase:41 - debug message
+[WARN ] 2020-09-14 19:32:52.687 it.testware.base.TestBase:42 - warning message
+[ERROR] 2020-09-14 19:32:52.688 it.testware.base.TestBase:43 - error message
+[DEBUG] 2020-09-14 19:33:01.732 it.testware.base.TestBase:78 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-14 19:33:01.810 it.testware.base.TestBase:17 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-14 19:33:12.289 it.testware.base.TestBase:89 - 
+Driver quit
+
+[INFO ] 2020-09-14 19:34:06.139 it.testware.base.TestBase:40 - info message
+[DEBUG] 2020-09-14 19:34:06.146 it.testware.base.TestBase:41 - debug message
+[WARN ] 2020-09-14 19:34:06.146 it.testware.base.TestBase:42 - warning message
+[ERROR] 2020-09-14 19:34:06.147 it.testware.base.TestBase:43 - error message
+[DEBUG] 2020-09-14 19:34:14.505 it.testware.base.TestBase:78 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-14 19:34:14.558 it.testware.base.TestBase:17 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-14 19:34:24.373 it.testware.base.TestBase:89 - 
+Driver quit
+
+[INFO ] 2020-09-14 19:59:05.649 it.testware.base.TestBase:40 - info message
+[DEBUG] 2020-09-14 19:59:05.656 it.testware.base.TestBase:41 - debug message
+[WARN ] 2020-09-14 19:59:05.657 it.testware.base.TestBase:42 - warning message
+[ERROR] 2020-09-14 19:59:05.657 it.testware.base.TestBase:43 - error message
+[DEBUG] 2020-09-14 19:59:13.746 it.testware.base.TestBase:78 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-14 19:59:13.827 it.testware.base.TestBase:17 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-14 19:59:22.644 it.testware.base.TestBase:89 - 
+Driver quit
+
+[INFO ] 2020-09-14 20:03:02.703 it.testware.base.TestBase:40 - info message
+[DEBUG] 2020-09-14 20:03:02.710 it.testware.base.TestBase:41 - debug message
+[WARN ] 2020-09-14 20:03:02.711 it.testware.base.TestBase:42 - warning message
+[ERROR] 2020-09-14 20:03:02.711 it.testware.base.TestBase:43 - error message
+[DEBUG] 2020-09-14 20:03:13.181 it.testware.base.TestBase:78 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-14 20:03:13.266 it.testware.base.TestBase:17 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-14 20:03:24.953 it.testware.base.TestBase:89 - 
+Driver quit
+
+[INFO ] 2020-09-14 20:11:44.301 it.testware.base.TestBase:44 - info message
+[DEBUG] 2020-09-14 20:11:44.309 it.testware.base.TestBase:45 - debug message
+[WARN ] 2020-09-14 20:11:44.310 it.testware.base.TestBase:46 - warning message
+[ERROR] 2020-09-14 20:11:44.310 it.testware.base.TestBase:47 - error message
+[DEBUG] 2020-09-14 20:11:52.162 it.testware.base.TestBase:82 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-14 20:11:52.218 it.testware.base.TestBase:20 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-14 20:12:00.984 it.testware.base.TestBase:93 - 
+Driver quit
+
+[INFO ] 2020-09-15 19:03:09.949 it.testware.base.TestBase:44 - info message
+[DEBUG] 2020-09-15 19:03:09.959 it.testware.base.TestBase:45 - debug message
+[WARN ] 2020-09-15 19:03:09.959 it.testware.base.TestBase:46 - warning message
+[ERROR] 2020-09-15 19:03:09.960 it.testware.base.TestBase:47 - error message
+[DEBUG] 2020-09-15 19:03:19.443 it.testware.base.TestBase:82 - 
+Driver launch and navigate to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+
+[DEBUG] 2020-09-15 19:03:19.513 it.testware.base.TestBase:20 - 
+***************** loginAsBankManager start executing ****************
+
+[DEBUG] 2020-09-15 19:03:29.505 it.testware.base.TestBase:93 - 
+Driver quit
+

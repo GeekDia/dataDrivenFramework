@@ -1,0 +1,14 @@
+[INFO ] 2020-09-13 17:18:58.018 it.testware.base.TestBase:38 - info message
+[DEBUG] 2020-09-13 17:18:58.025 it.testware.base.TestBase:39 - debug message
+[WARN ] 2020-09-13 17:18:58.025 it.testware.base.TestBase:40 - warning message
+[ERROR] 2020-09-13 17:18:58.026 it.testware.base.TestBase:41 - error message
+[INFO ] 2020-09-13 17:20:00.587 it.testware.base.TestBase:38 - info message
+[DEBUG] 2020-09-13 17:20:00.593 it.testware.base.TestBase:39 - debug message
+[WARN ] 2020-09-13 17:20:00.595 it.testware.base.TestBase:40 - warning message
+[ERROR] 2020-09-13 17:20:00.598 it.testware.base.TestBase:41 - error message
+[INFO ] 2020-09-13 17:20:44.848 it.testware.base.TestBase:38 - info message
+[DEBUG] 2020-09-13 17:20:44.854 it.testware.base.TestBase:39 - debug message
+[WARN ] 2020-09-13 17:20:44.854 it.testware.base.TestBase:40 - warning message
+[ERROR] 2020-09-13 17:20:44.856 it.testware.base.TestBase:41 - error message
+[INFO ] 2020-09-13 17:21:12.702 it.testware.base.TestBase:38 - info message
+[DEBUG] 2020-09-13 17:21:12.707 it.testware.base.TestBase:39 - debug message
